@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.bd7eb47e.css",
-    "main.js": "/static/js/main.45e67c57.js",
+    "main.js": "/static/js/main.bbc6069a.js",
     "static/media/zee.JPG": "/static/media/zee.4cea58b205a7262cfb36.JPG",
     "static/media/asos.JPG": "/static/media/asos.5f9814cb33c8c969546e.JPG",
     "static/media/arsalan.png": "/static/media/arsalan.d2c21aa5d6e5cea77490.png",
     "index.html": "/index.html",
     "main.bd7eb47e.css.map": "/static/css/main.bd7eb47e.css.map",
-    "main.45e67c57.js.map": "/static/js/main.45e67c57.js.map"
+    "main.bbc6069a.js.map": "/static/js/main.bbc6069a.js.map"
   },
   "entrypoints": [
     "static/css/main.bd7eb47e.css",
-    "static/js/main.45e67c57.js"
+    "static/js/main.bbc6069a.js"
   ]
 }
