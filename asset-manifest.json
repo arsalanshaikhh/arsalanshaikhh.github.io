@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e368e70b.css",
-    "main.js": "/static/js/main.e528ee76.js",
+    "main.js": "/static/js/main.a483ed7b.js",
     "static/media/Arsalan_Shaikh_Resume.pdf": "/static/media/Arsalan_Shaikh_Resume.fceb1ce120614bd929ca.pdf",
     "static/media/harvest.png": "/static/media/harvest.94727879268fa4505170.png",
     "static/media/zee.JPG": "/static/media/zee.4cea58b205a7262cfb36.JPG",
@@ -9,10 +9,10 @@
     "static/media/asos.JPG": "/static/media/asos.5f9814cb33c8c969546e.JPG",
     "index.html": "/index.html",
     "main.e368e70b.css.map": "/static/css/main.e368e70b.css.map",
-    "main.e528ee76.js.map": "/static/js/main.e528ee76.js.map"
+    "main.a483ed7b.js.map": "/static/js/main.a483ed7b.js.map"
   },
   "entrypoints": [
     "static/css/main.e368e70b.css",
-    "static/js/main.e528ee76.js"
+    "static/js/main.a483ed7b.js"
   ]
 }
