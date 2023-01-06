@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c674066.css",
-    "main.js": "/static/js/main.31e6f59f.js",
+    "main.css": "/static/css/main.ac0a463f.css",
+    "main.js": "/static/js/main.309b7d02.js",
     "static/media/zee.JPG": "/static/media/zee.7cd44f2ca2f42e13e554.JPG",
     "static/media/Arsalan-Shaikh-Resume.pdf": "/static/media/Arsalan-Shaikh-Resume.028004ea29eb01d15ce4.pdf",
     "static/media/harvest.png": "/static/media/harvest.94727879268fa4505170.png",
@@ -9,11 +9,11 @@
     "static/media/asos.JPG": "/static/media/asos.c55b6b16eb9f3e7d70d0.JPG",
     "static/media/apart.jpg": "/static/media/apart.517c15e126b6a57350f2.jpg",
     "index.html": "/index.html",
-    "main.8c674066.css.map": "/static/css/main.8c674066.css.map",
-    "main.31e6f59f.js.map": "/static/js/main.31e6f59f.js.map"
+    "main.ac0a463f.css.map": "/static/css/main.ac0a463f.css.map",
+    "main.309b7d02.js.map": "/static/js/main.309b7d02.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c674066.css",
-    "static/js/main.31e6f59f.js"
+    "static/css/main.ac0a463f.css",
+    "static/js/main.309b7d02.js"
   ]
 }
