@@ -46,7 +46,7 @@ export const Contact = () => {
             <VscMail className="email" />
           </a> */}
           <a
-            href="https://twitter.com/iarsalanshaikh"
+            href="https://twitter.com/Arsalan99853"
             target="_blank"
             rel="noreferrer"
           >

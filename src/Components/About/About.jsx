@@ -56,7 +56,7 @@ export const About = () => {
           </a>
 
           <a
-            href="https://www.twitter.com/iarsalanshaikh"
+            href="https://www.twitter.com/Arsalan99853"
             aria-label="github"
             className="link link--icon"
             target="_blank"

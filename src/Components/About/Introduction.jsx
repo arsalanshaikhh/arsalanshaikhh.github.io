@@ -1,7 +1,7 @@
 import React from "react";
 import "./Introduction.css";
 import ExitToAppIcon from "@material-ui/icons/ExitToApp";
-import profilePic from "./pictures/arsalan.jpg";
+// import profilePic from "./pictures/arsalan.jpg";
 
 export const Introduction = () => {
   return (
@@ -19,7 +19,7 @@ export const Introduction = () => {
           </h2>
           <div className="introduction">
             <div className="introduction_logocontainer">
-              <img src={profilePic} alt="Arsalan Image" />
+              {/* <img src={profilePic} alt="Arsalan Image" /> */}
             </div>
             <div
               className="introduction_datacontainer"
