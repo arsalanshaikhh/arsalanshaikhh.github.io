@@ -18,9 +18,9 @@ export const Introduction = () => {
             </span>
           </h2>
           <div className="introduction">
-            <div className="introduction_logocontainer">
-              {/* <img src={profilePic} alt="Arsalan Image" /> */}
-            </div>
+            {/* <div className="introduction_logocontainer">
+              <img src={profilePic} alt="Arsalan Image" />
+            </div> */}
             <div
               className="introduction_datacontainer"
               // neeche wala delete karna hai
@@ -28,7 +28,7 @@ export const Introduction = () => {
             >
               <h4
                 style={{
-                  "text-align": "justify",
+                  "text-align": "center !important",
                   lineHeight: "3em",
                 }}
               >

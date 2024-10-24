@@ -25,7 +25,8 @@
 }
 
 .introduction_datacontainer {
-  flex-basis: 55%;
+  flex-basis: 100%;
+  text-align: center;
 }
 
 .introduction_datacontainer > h4:nth-child(1) {
